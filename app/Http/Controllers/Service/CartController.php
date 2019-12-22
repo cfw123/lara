@@ -34,6 +34,8 @@ class CartController extends Controller
             return $m3_result->toJson();
         }
         $bk_cart = $request->cookie('bk_cart');
+//        echo $bk_cart;
+        return $bk_cart;
         $bk_cart_arr = ($bk_cart!=null ? explode(',', $bk_cart) : array());
         $count = 1;
         foreach ($bk_cart_arr as &$value) {   // 一定要传引用
