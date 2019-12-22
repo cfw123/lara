@@ -74,7 +74,11 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+=======
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+>>>>>>> 709b2219e4e3d157eab79d630a51f997083c63c8
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
@@ -84,6 +88,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -97,6 +102,8 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> 709b2219e4e3d157eab79d630a51f997083c63c8
       <file leaf-file-name="book.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/css/book.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -163,7 +170,10 @@
         <option value="$PROJECT_DIR$/storage/logs/laravel-2019-12-21.log" />
         <option value="$PROJECT_DIR$/resources/views/pdt_content.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/master.blade.php" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/readme.md" />
+=======
+>>>>>>> 709b2219e4e3d157eab79d630a51f997083c63c8
       </list>
     </option>
   </component>
@@ -180,9 +190,15 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="-13" />
     <option name="y" value="114" />
     <option name="width" value="1296" />
+=======
+    <option name="x" value="622" />
+    <option name="y" value="102" />
+    <option name="width" value="1080" />
+>>>>>>> 709b2219e4e3d157eab79d630a51f997083c63c8
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -623,11 +639,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576807105269</updated>
+<<<<<<< HEAD
       <workItem from="1576807114282" duration="39393000" />
+=======
+      <workItem from="1576807114282" duration="38153000" />
+>>>>>>> 709b2219e4e3d157eab79d630a51f997083c63c8
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="39393000" />
   </component>
   <component name="ToolWindowManager">
@@ -636,6 +657,16 @@
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1933657" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+    <option name="totallyTimeSpent" value="38153000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="622" y="102" width="1080" height="735" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23431373" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 709b2219e4e3d157eab79d630a51f997083c63c8
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1089,6 +1120,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -1097,6 +1129,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 709b2219e4e3d157eab79d630a51f997083c63c8
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1108,5 +1142,16 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 709b2219e4e3d157eab79d630a51f997083c63c8
   </component>
 </project>
