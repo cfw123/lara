@@ -25,6 +25,7 @@ class OrderController extends Controller
         $product_ids_arr = ($product_ids!='' ? explode(',', $product_ids) : array());
         $member = $request->session()->get('member', '');
         $cart_items = CartItem::where('member_id', $member->id)->whereIn('product_id', $product_ids_arr)->get();
+//        return $cart_items;
         $order = new Order;
         $order->member_id = $member->id;
         $order->save();
@@ -83,6 +84,7 @@ class OrderController extends Controller
                 $order_item->product = json_decode($order_item->pdt_snapshot);
             }
         }
+//        return $orders;
         return view('order_list')->with('orders', $orders);
     }
 }
