@@ -10,7 +10,7 @@
 |
 */
 Route::get('/', function () {
-    return view('welcome');
+   echo  md5('222'. 123123);
 });
 Route::get('/login', 'View\MemberController@toLogin');
 Route::get('/register', 'View\MemberController@toRegister');
